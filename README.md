@@ -51,7 +51,3 @@ Once the sketch is uploaded and the hardware is properly connected, the robot sh
 Contributions to improve this project are welcome! You can contribute by:
 - Reporting bugs or suggesting enhancements by creating issues.
 - Forking the repository and submitting pull requests with your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
