@@ -1,6 +1,6 @@
 # Human Following Robot using Arduino
 
-This project implements a Human Following Robot using Arduino. The robot is equipped with sensors that allow it to detect objects, particularly humans, and follow their movements. It utilizes an ultrasonic sensor and IR sensors to track the position of the human and adjust its movement accordingly.
+This project implements a *Human Following Robot using Arduino*. The robot is equipped with sensors that allow it to detect objects, particularly humans, and follow their movements. It utilizes an ultrasonic sensor and IR sensors to track the position of the human and adjust its movement accordingly.
 
 ## Introduction
 
