@@ -9,8 +9,9 @@ The Human Following Robot is a project aimed at creating an autonomous robot tha
 ## Hardware Components
 
 - Arduino board
+- L293D Motor Driver Shield
 - Ultrasonic sensor
-- Infrared (IR) sensors
+- Infrared (IR) sensors (2)
 - Servo motor
 - DC motors (4)
 
@@ -29,7 +30,7 @@ This project utilizes the following Arduino libraries:
    - AFMotor
 
 2. Connect the hardware components according to the wiring diagram.
-![Flight Delay Prediction](./Project-Circuit_Diagram.png)
+   ![HumanFollowingRobot](./Project-Circuit_Diagram.png)
 
 
 4. Upload the provided Arduino sketch to your Arduino board.
